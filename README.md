@@ -1,6 +1,9 @@
 # TollAutomationBD_498R
+![SmartTollBD_final](https://user-images.githubusercontent.com/70026044/229833818-0ac235d5-f0d7-4c49-a4b6-bec8283847f6.png)
 
+<br>
 Automated toll collection system with the help of Image processing using CNN, Internet of Things (IoT) and Blockchain technology which approaches to run 24/7 with a minimum interruption.
+
 
 ## Screenshots
 
